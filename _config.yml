@@ -1,0 +1,28 @@
+name: capsulecreatures
+favicon: null
+layout_spectrum: 0.5680921790190041
+typography_spectrum: 0.7109684378374368
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6769787643570453
+  lightness: 0.49727263837121427
+  saturation: 0.7792887787800282
+  rhythmicContrast: 0.951623864704743
+purpose: []
